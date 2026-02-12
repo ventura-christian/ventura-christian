@@ -3,159 +3,58 @@
 </p> -->
 
 <h1 align="center">Christian Ventura</h1>
-
 <p align="center">
-  Cloud, Data & Infrastructure-Focused Backend Developer <em>"in training"</em>
+ Arizona State University: Bachelor of Science in Full-Stack Web Development [Dec 2026]
 </p>
 
 <p align="center">
-  <a href="https://github.com/ventura-christian">GitHub</a> •
+  <a href="https://github.com/ventura-christian">GitHub</a> 🎲 
   <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a>
 </p>
 
-<hr>
-
-## 🍲 A little about me... 🍲
-
-I’m a backend-first developer in training who strives to contribute and build systems that protect data, reduce risk, and keep businesses running when things break.
-
-My professional background has mainly been in healthcare, where mistakes cost real people real outcomes. That environment permanently shaped how I think about systems:
-
-**correctness beats cleverness, reliability beats speed, and automation beats hope.**
-
-I’m currently completing a Bachelor of Science in Full-Stack Web Development at Arizona State University (Dec 2026), but my technical focus lives deeper than front-end or features. My goals for my future career will see me work in the layers that keep companies alive:  
-**databases, APIs, cloud infrastructure, security, and automation.**
+<h3>I'm deliberately shifting from “web development” toward infrastructure engineering.</h3>
 
 ---
 
-## ⚛ What Changed ⚛
-
-In early 2026 I made a deliberate shift away from “software engineering” toward **infrastructure engineering**.
-
-Instead of chasing frameworks, I am committing to understanding and building:
-- Data pipelines  
-- Backup systems  
-- Cloud environments  
-- Security scanners  
-- Monitoring and automation  
-
-This GitHub exists to document that transition.
-
-You’ll see commits evolve from coursework into **real-world systems**: things that back up databases, scan cloud environments, manage secrets, and expose reliable APIs.
-
-This isn’t a portfolio of features.  
-It’s a lab notebook for becoming the engineer people trust with their production systems.
-
----
-
-## 🔧 What I’m Building 🔧
-
-
-### <em><bold>These are concepts for ideas I want to build from scratch!!!</bold></em>
-
-### **Business Data Vault**
-A Python-based SaaS that:
-- Connects to PostgreSQL, MySQL, and SaaS APIs  
-- Encrypts and backs up data  
-- Stores it in cloud object storage  
-- Provides restore, audit logs, and compliance reports  
-
-This is about **data safety, not dashboards**.
-
----
-
-### **Cloud Cost & Risk Scanner**
-A Python service that:
-- Connects to AWS or Google Cloud  
-- Scans for exposed databases, open ports, unused resources, and dangerous permissions  
-- Produces security and cost reports  
-- Sends alerts and remediation suggestions  
-
-This is about **preventing silent disasters**.
-
----
-
-## 🌛 What I Care About 🌛
-
-These repositories focus on fundamentals that don’t go obsolete:
-
-- Linux  
-- Networking  
-- PostgreSQL & SQL  
-- Python  
-- Cloud Infrastructure  
-- Security & Encryption  
-- Infrastructure as Code  
-
-Frameworks change.  
-These do not.
-
----
-
-## 📌 How to Read This GitHub 📌
-
-You’ll notice:
-- Small, focused commits  
-- Clear commit messages  
-- Experiments alongside production-style code  
-- Infrastructure files (Docker, Terraform, cloud configs) living next to Python  
-
-That’s intentional.
-
-This GitHub is not about looking impressive.  
-It’s about showing how I think, test, break, fix, and harden systems.
-
----
-
-## 🏥 Why Healthcare → Infrastructure 🏥
-
-In hospitals:
-- Data loss kills  
-- Downtime kills  
-- Miscommunication kills  
-
-That mindset carries into everything I build now.
-
-I don’t write code to make screens light up.  
-I write code so **systems don’t fail quietly.**
-
----
-
-## 🛠 Tech Stack (Actively Growing) 🛠
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,linux,git" />
+<p>
+  <h3>Concepts I'm studying:</h3>
+  <ul>
+    <li>Data pipelines</li>
+    <li>Backup systems</li>
+    <li>Cloud environments</li>
+    <li>Security scanners</li>
+    <li>Monitoring and automation</li>
+  </ul>
 </p>
-These technologies are ongoing areas of study for me. I understand their fundamentals and syntax, and I’m committed to continuously deepening my knowledge over time. I don’t claim mastery or deep knowledge but instead a mindset with an active pursuit of including them in my work. 
 
-- Python, SQL, Java, JavaScript  
-- FastAPI, PostgreSQL  
-- Docker, Git, GitHub, CLI  
-- AWS / Google Cloud  
-- Linux, Networking, Security fundamentals  
+<h3>Interests</h3>
+<ul>
+    <li>Family</li>
+    <li>Slappin da bass</li>  
+    <li>Python</li>
+    <li>Engineering Fundamentals</li>
+    <li>Skateboarding Culture</li>
+    <li>Security & Encryption</li>
+    <li>macOS</li>
+    <li>Cloud Infrastructure</li>
+</ul>
+
+<h3>Career Aspirations</h3>
+<h4>I’m tailoring my studies towards these roles:</h4>
+<ul>
+    <li>Cloud Engineer</li>
+    <li>Data Engineer</li>
+    <li>Security-minded Backend Developer</li>
+</ul>
+
+<h3>On a side note...</h3>
+<p>
+  I'll be attending 🐍PyCon this year in May in <em>Long Beach, CA</em>. <br>
+  I'd like to making friends and develop my network of like-minded individuals!<br>
+  If you find me, let's have coffee and discuss all things Python!!<br>
+  My information is in my LinkedIn, feel free to message me.<br>
+</p>
 
 ---
 
-## 🎯 Where This Is Going 🎯
-
-I’m aiming for roles like:
-- Cloud Engineer  
-- Data Engineer  
-- Infrastructure Engineer  
-- Platform Engineer  
-- Security-minded Backend Developer  
-
-The people who build and protect the systems everyone else depends on.
-
----
-
-## ☣ Side note ☣
-
-I'll be attending <em>PyCon</em> this year in May that will be held in <em>Long Beach, CA</em>.
-If you find me let's chat, discuss Python and all things coding!!
-I'm interested in making friends and developing my network of like-minded individuals!
-Find my information in my resume or feel free to email me on LinkedIn.
-
-
-
-If you’re here to see how someone grows from coursework into real infrastructure engineering, you’re in the right place.
+<p>If you’re here to see how someone grows from coursework into real infrastructure engineering, you’re in the right place.</p>
