@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ventura-christian">GitHub</a> 🎲 
-  <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a>
+ User Account: 
+  <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a> <br>
+  Email Account: 
+  cventura64@outlook.com
 </p>
 
 <h3>I'm deliberately shifting from “web development” toward infrastructure engineering.</h3>
