@@ -3,36 +3,42 @@
 </p> -->
 
 <h1 align="center">Christian Ventura</h1>
+<h4 align="center">LinkedIn: <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a> |
+  Email: cventura64@outlook.com </h4>
+  
 <p align="center">
- Arizona State University: Bachelor of Science in Full-Stack Web Development [Dec 2026]
+ Arizona State University: Bachelor of Science in Full-Stack Web Development [Aug 2026]
 </p>
 
-<p align="center">
- User Account: 
-  <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a> <br>
-  Email Account: 
-  cventura64@outlook.com
-</p>
 
-<h3>I'm deliberately shifting from “web development” toward infrastructure engineering.</h3>
+<h4> => My current interests include all things related to secure and fast webpages, the Indie Web, infrastructure engineering and issue hunting on github. <br><br> => I want to make the web, web apps, and other infrastructure secure and well documented.</h4>
+<h4> => Who knows what the future holds but I will make a difference...don't stop creating!!!</h4>
 
 ---
 
 <p>
-  <h3>Concepts I'm studying:</h3>
+  <h5>Concepts I'm studying</h5>
   <ul>
+    <li>Vim</li>
     <li>Data pipelines</li>
-    <li>Backup systems</li>
+    <li>APIs</li>
     <li>Cloud environments</li>
-    <li>Security scanners</li>
-    <li>Monitoring and automation</li>
+    <li>Backend engineering</li>
+    <li>Python</li>
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Monitoring and Automation</li>
+    <li>Linux</li>
   </ul>
 </p>
 
-<h3>Interests</h3>
+<h5>Interests</h5>
 <ul>
     <li>Family</li>
     <li>Slappin da bass</li>  
+    <li>Ownership and Control over things I build</li>
+    <li>Making the web fun again</li>
     <li>Python</li>
     <li>Engineering Fundamentals</li>
     <li>Skateboarding Culture</li>
@@ -41,22 +47,21 @@
     <li>Cloud Infrastructure</li>
 </ul>
 
-<h3>Career Aspirations</h3>
-<h4>I’m tailoring my studies towards these roles:</h4>
+
+<h5>Always on the hunt</h5>
+<p> => I'm also passionate and appreciative of open source software and documentation. <br><br> => I am constantly reading repositories and want to help on any projects I can. <br><br> => If your project or anyone elses project needs a contributor or help with fine tuning your docs, email me at: <strong>cventura64@outlook.com</strong></p>
+
+<h5>Career Aspirations</h5>
+<p>I’m tailoring my studies towards these roles</p>
 <ul>
+    <li>Full-Stack Web Dev</li>
+    <li>Help desk</li>
     <li>Cloud Engineer</li>
     <li>Data Engineer</li>
     <li>Security-minded Backend Developer</li>
 </ul>
 
-<h3>On a side note...</h3>
-<p>
-  I'll be attending 🐍PyCon this year in May in <em>Long Beach, CA</em>. <br>
-  I'd like to making friends and develop my network of like-minded individuals!<br>
-  If you find me, let's have coffee and discuss all things Python!!<br>
-  My information is in my LinkedIn, feel free to message me.<br>
-</p>
 
 ---
 
-<p>If you’re here to see how someone grows from coursework into real infrastructure engineering, you’re in the right place.</p>
+<h5> => If you know anyone who wants cheap dev work or in need of a collaborator who wants to learn, send them to my <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a>.</h5>
