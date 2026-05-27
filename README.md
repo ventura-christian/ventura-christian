@@ -5,11 +5,6 @@
 <h1 align="center">Christian Ventura</h1>
 <h4 align="center">LinkedIn: <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a> |
   Email: cventura64@outlook.com </h4>
-  
-<p align="center">
- Arizona State University: Bachelor of Science in Full-Stack Web Development [Aug 2026]
-</p>
-
 
 <h4> => My current interests include all things related to secure and fast webpages, the Indie Web, infrastructure engineering and issue hunting on github. <br><br> => I want to make the web, web apps, and other infrastructure secure and well documented.</h4>
 <h4> => Who knows what the future holds but I will make a difference...don't stop creating!!!</h4>
@@ -23,29 +18,9 @@
     <li>Data pipelines</li>
     <li>APIs</li>
     <li>Cloud environments</li>
-    <li>Backend engineering</li>
-    <li>Python</li>
-    <li>HTML5</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Monitoring and Automation</li>
     <li>Linux</li>
   </ul>
 </p>
-
-<h5>Interests</h5>
-<ul>
-    <li>Family</li>
-    <li>Slappin da bass</li>  
-    <li>Ownership and Control over things I build</li>
-    <li>Making the web fun again</li>
-    <li>Python</li>
-    <li>Engineering Fundamentals</li>
-    <li>Skateboarding Culture</li>
-    <li>Security & Encryption</li>
-    <li>macOS</li>
-    <li>Cloud Infrastructure</li>
-</ul>
 
 
 <h5>Always on the hunt</h5>
@@ -54,14 +29,12 @@
 <h5>Career Aspirations</h5>
 <p>I’m tailoring my studies towards these roles</p>
 <ul>
-    <li>Full-Stack Web Dev</li>
     <li>Help desk</li>
     <li>Cloud Engineer</li>
     <li>Data Engineer</li>
-    <li>Security-minded Backend Developer</li>
 </ul>
 
 
 ---
 
-<h5> => If you know anyone who wants cheap dev work or in need of a collaborator who wants to learn, send them to my <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a>.</h5>
+<h5> => If you know anyone seeking a collaborator who wants to learn, send them to my <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a>.</h5>
