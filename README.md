@@ -32,5 +32,3 @@
     <li>Platform operations</li>
     <li>Software Quality Assurance (QA) Analyst / Tester</li>
 </ul>
-
-<h2>If you know anyone seeking a collaborator who wants to learn, send them to my <a href="https://linkedin.com/in/ventura-christian">LinkedIn</a>.</h2>
